@@ -4,9 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "node esbuild.config.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {
+    "builtin-modules": "3.3.0",
+    "esbuild": "^0.17.18",
+    "obsidian": "^1.2.8",
+    "typescript": "^5.0.4"
+  }
 }
