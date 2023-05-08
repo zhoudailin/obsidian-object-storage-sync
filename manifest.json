@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-object-storage-sync",
+	"name": "Object Storage Sync Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a sample plugin for Obsidian. This plugin sync your vault by object storage",
+	"author": "zhoudailin<zhoudailin.cser@outlook.com>",
+	"isDesktopOnly": false
+}
